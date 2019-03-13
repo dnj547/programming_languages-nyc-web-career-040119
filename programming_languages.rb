@@ -6,4 +6,5 @@ def reformat_languages(languages)
       new_hash[:style] = style
     end
   end
+  new_hash
 end
